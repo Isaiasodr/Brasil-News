@@ -12,7 +12,7 @@ const newsdetails = document.getElementById("newsdetails");
 let newsDataArr = [];
 
 /* API */
-const API_KEY = "INSIRA SUA CHAVE";
+const API_KEY = "INSIRA A CHAVE";
 const HEADLINES_NEWS =
   "https://newsapi.org/v2/top-headlines?country=br&apiKey=";
 const GENERAL_NEWS =
