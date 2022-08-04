@@ -9,7 +9,7 @@
 
 
 # Descrição
-O Projeto foi feito para fins de estudo sobre integração com APIs, e a usada neste projeto foi a *News API* que Localize artigos e manchetes de notícias de fontes de notícias e blogs em toda a web.
+O Projeto foi feito para fins de estudo sobre integração com APIs, e a usada neste projeto foi a *News API* que Localiza artigos e manchetes de notícias de fontes em toda a web.
 
 # Funcionalidades
 * Carrega as notícias do país que foi definido no link gerado e mostra as notícias de acordo com a categoria selecionada(Tecnologia, Entretenimento, esportes,negócios saúde,tecnologia e ciências)
@@ -21,4 +21,7 @@ O Projeto foi feito para fins de estudo sobre integração com APIs, e a usada n
 Após fazer o clone desse repositório
 * Crie um conta no site da API https://newsapi.org/docs/get-started
 * obtenha a chave da API e adicione na variável API_KEY do arquivo scripts.js
+
+# Fonte do conhecimento
+https://www.youtube.com/c/CodeLogicByPrajyot
 
