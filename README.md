@@ -22,6 +22,5 @@ Após fazer o clone desse repositório
 * Crie um conta no site da API https://newsapi.org/docs/get-started
 * obtenha a chave da API e adicione na variável API_KEY do arquivo scripts.js
 
-# Fonte do conhecimento
-https://www.youtube.com/c/CodeLogicByPrajyot
+
 
