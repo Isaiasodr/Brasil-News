@@ -23,4 +23,3 @@ Após fazer o clone desse repositório
 * obtenha a chave da API e adicione na variável API_KEY do arquivo scripts.js
 
 
-
